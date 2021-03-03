@@ -84,7 +84,7 @@ if (!function_exists('templates_url')) {
 
     function templates_url($path = '') {
         $ci = & get_instance();
-        return $ci->config->slash_item('templates_url') . (($path) ? $path : '');
+        return $ci->config->slash_item('templates_url') . $ci->templates . '/' . (($path) ? $path : '');
     }
 
 }
