@@ -1,0 +1,188 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "module_name": "Dashboard",
+            "parameter": "dashboard",
+            "slug": "dashboard",
+            "link_type": true,
+            "icon": ""
+        },
+        {
+            "id": 2,
+            "module_name": "Manajemen Inventori",
+            "parameter": "manajemen_inventori",
+            "slug": "manajemen-inventori",
+            "link_type": true,
+            "icon": ""
+        },
+        {
+            "id": 3,
+            "module_name": "Inventaris Medis",
+            "parameter": "inventaris_medis",
+            "slug": "manajemen-inventori/inventaris-medis",
+            "link_type": true,
+            "icon": ""
+        },
+        {
+            "id": 4,
+            "module_name": "Inventaris Non Medis",
+            "parameter": "inventaris_non_medis",
+            "slug": "manajemen-inventori/inventaris-non-medis",
+            "link_type": true,
+            "icon": ""
+        },
+        {
+            "id": 5,
+            "module_name": "Tambah Inventaris",
+            "parameter": "tambah_inventaris",
+            "slug": "manajemen-inventori/tambah-inventaris",
+            "link_type": false,
+            "icon": ""
+        },
+        {
+            "id": 6,
+            "module_name": "Pelaporan Kerusakan Alat",
+            "parameter": "pelaporan_kerusakan_alat",
+            "slug": "pelaporan-kerusakan-alat",
+            "link_type": true,
+            "icon": ""
+        },
+        {
+            "id": 7,
+            "module_name": "Manajemen Perbaikan Alat",
+            "parameter": "manajemen_perbaikan_alat",
+            "slug": "manajemen-perbaikan-alat",
+            "link_type": true,
+            "icon": ""
+        },
+        {
+            "id": 8,
+            "module_name": "Summary",
+            "parameter": "summary",
+            "slug": "manajemen-perbaikan-alat/summary",
+            "link_type": true,
+            "icon": ""
+        },
+        {
+            "id": 9,
+            "module_name": "Penanganan Komplain",
+            "parameter": "penanganan_komplain",
+            "slug": "manajemen-perbaikan-alat/penanganan-komplain",
+            "link_type": true,
+            "icon": ""
+        },
+        {
+            "id": 10,
+            "module_name": "Request Spare Part",
+            "parameter": "request_spart_part",
+            "slug": "manajemen-perbaikan-alat/request-spart-part",
+            "link_type": true,
+            "icon": ""
+        },
+        {
+            "id": 11,
+            "module_name": "Sasaran Mutu",
+            "parameter": "sasaran_mutu",
+            "slug": "manajemen-perbaikan-alat/sasaran-mutu",
+            "link_type": true,
+            "icon": ""
+        },
+        {
+            "id": 12,
+            "module_name": "Manajemen Inspeksi",
+            "parameter": "manajemen_inspeksi",
+            "slug": "manajemen-inspeksi",
+            "link_type": true,
+            "icon": ""
+        },
+        {
+            "id": 13,
+            "module_name": "Summary",
+            "parameter": "summary",
+            "slug": "manajemen-inspeksi/summary",
+            "link_type": true,
+            "icon": ""
+        },
+        {
+            "id": 14,
+            "module_name": "Penjadwalan Inspeksi",
+            "parameter": "penjadwalan_inspeksi",
+            "slug": "manajemen-inspeksi/penjadwalan-inspeksi",
+            "link_type": true,
+            "icon": ""
+        },
+        {
+            "id": 15,
+            "module_name": "Lembar Kerja",
+            "parameter": "lembar_kerja",
+            "slug": "manajemen-inspeksi/lembar-kerja",
+            "link_type": false,
+            "icon": ""
+        },
+        {
+            "id": 16,
+            "module_name": "Manajemen Pemeliharaan Alat",
+            "parameter": "manajemen_pemeliharaan_alat",
+            "slug": "manajemen-pemeliharaan-alat",
+            "link_type": true,
+            "icon": ""
+        },
+        {
+            "id": 17,
+            "module_name": "Summary",
+            "parameter": "summary",
+            "slug": "manajemen-pemeliharaan-alat/summary",
+            "link_type": true,
+            "icon": ""
+        },
+        {
+            "id": 18,
+            "module_name": "Penjadwalan Pemeliharaan Alat",
+            "parameter": "penjadwalan_pemeliharaan_alat",
+            "slug": "manajemen-pemeliharaan-alat/penjadwalan-pemeliharaan-alat",
+            "link_type": true,
+            "icon": ""
+        },
+        {
+            "id": 19,
+            "module_name": "Lembar Kerja",
+            "parameter": "lembar_kerja",
+            "slug": "manajemen-pemeliharaan-alat/lembar-kerja",
+            "link_type": true,
+            "icon": ""
+        },
+        {
+            "id": 20,
+            "module_name": "Manajemen Spare Part",
+            "parameter": "manajemen_spare_part",
+            "slug": "manajemen-spare-part",
+            "link_type": true,
+            "icon": ""
+        },
+        {
+            "id": 21,
+            "module_name": "Summary",
+            "parameter": "summary",
+            "slug": "manajemen-spare-part/summary",
+            "link_type": true,
+            "icon": ""
+        },
+        {
+            "id": 22,
+            "module_name": "Permintaan Spare Part",
+            "parameter": "permintaan_spare_part",
+            "slug": "manajemen-spare-part/permintaan-spare-part",
+            "link_type": true,
+            "icon": ""
+        },
+        {
+            "id": 23,
+            "module_name": "Laporan Penyusutan Aset",
+            "parameter": "laporan_penyusutan_aset",
+            "slug": "laporan-penyusutan-aset",
+            "link_type": true,
+            "icon": ""
+        }
+    ]
+}

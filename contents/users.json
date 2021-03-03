@@ -1,0 +1,46 @@
+{
+    "data" : [
+        {
+            "email": "super.admin@mail.com",
+            "nama_lengkap": "Super Admin",
+            "roles": "super-admin",
+            "token": ""
+        },
+        {
+            "email": "direktur@mail.com",
+            "nama_lengkap": "Direktur",
+            "roles": "direktur",
+            "token": ""
+        },
+        {
+            "email": "accounting@mail.com",
+            "nama_lengkap": "Accounting",
+            "roles": "accounting",
+            "token": ""
+        },
+        {
+            "email": "logistik@mail.com",
+            "nama_lengkap": "Logistik",
+            "roles": "logistik",
+            "token": ""
+        },
+        {
+            "email": "perawat@mail.com",
+            "nama_lengkap": "Perawat",
+            "roles": "perawat",
+            "token": ""
+        },
+        {
+            "email": "instalasi.medis@mail.com",
+            "nama_lengkap": "Instalasi Sarana Medis",
+            "roles": "instalasi-sarana-medis",
+            "token": ""
+        },
+        {
+            "email": "instalasi.non.medis@mail.com",
+            "nama_lengkap": "Instalasi Sarana Non Medis",
+            "roles": "instalasi-sarana-non-medis",
+            "token": ""
+        }
+    ]
+}

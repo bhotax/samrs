@@ -1,0 +1,78 @@
+{
+    "data": [
+        {
+            "role": "super-admin",
+            "modules": [
+                {
+                    "id_module": 1
+                },
+                {
+                    "id_module": 2
+                },
+                {
+                    "id_module": 3
+                },
+                {
+                    "id_module": 4
+                },
+                {
+                    "id_module": 5
+                },
+                {
+                    "id_module": 6
+                },
+                {
+                    "id_module": 7
+                },
+                {
+                    "id_module": 8
+                },
+                {
+                    "id_module": 9
+                },
+                {
+                    "id_module": 10
+                },
+                {
+                    "id_module": 11
+                },
+                {
+                    "id_module": 12
+                },
+                {
+                    "id_module": 13
+                },
+                {
+                    "id_module": 14
+                },
+                {
+                    "id_module": 15
+                },
+                {
+                    "id_module": 16
+                },
+                {
+                    "id_module": 17
+                },
+                {
+                    "id_module": 18
+                },
+                {
+                    "id_module": 19
+                },
+                {
+                    "id_module": 20
+                },
+                {
+                    "id_module": 21
+                },
+                {
+                    "id_module": 22
+                },
+                {
+                    "id_module": 23
+                }
+            ]
+        }
+    ]
+}
